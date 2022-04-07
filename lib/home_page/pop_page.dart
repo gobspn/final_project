@@ -112,7 +112,7 @@ class _popPageState extends State<popPage> {
               decoration: BoxDecoration(
                   image: DecorationImage(
                       image: AssetImage(
-                          'assets/images/Pop_00.jpg'
+                          'assets/images/pop_00.jpg'
                       )
                   )
               ),

@@ -33123,7 +33123,7 @@ A.KU.prototype={
 M(a,b){var s,r=null,q=A.j7(A.bV("Pop",r,r,r),r,r)
 q=A.yo(B.l,A.ne(r,B.cO,r,new A.a2C(b),r),q)
 s=A.a([new A.z(4278195076),new A.z(4278834902)],t.W)
-return A.un(q,r,A.dq(A.a([A.kE(A.ca(r,A.ca(r,r,r,new A.c_(r,A.ky(r,new A.dY("assets/images/Pop_00.jpg",r,r)),r,r,r,r,B.F),300,r,r,300),r,new A.c_(r,r,r,r,r,new A.eB(B.bn,B.bo,B.aj,s,r,r),B.F),r,r,r,1/0),1),A.kE(A.ca(r,A.Rp(new A.a2D(this),10),new A.z(4278387459),r,r,r,r,r),3)],t.E),B.A,B.E))}}
+return A.un(q,r,A.dq(A.a([A.kE(A.ca(r,A.ca(r,r,r,new A.c_(r,A.ky(r,new A.dY("assets/images/pop_00.jpg",r,r)),r,r,r,r,B.F),300,r,r,300),r,new A.c_(r,r,r,r,r,new A.eB(B.bn,B.bo,B.aj,s,r,r),B.F),r,r,r,1/0),1),A.kE(A.ca(r,A.Rp(new A.a2D(this),10),new A.z(4278387459),r,r,r,r,r),3)],t.E),B.A,B.E))}}
 A.a2C.prototype={
 $0(){A.dL(this.a).ex("/page",null,t.X)},
 $S:0}
@@ -33137,8 +33137,8 @@ A.j1(s)
 A.dL(this.b).ex("/musicdetail",s,t.X)},
 $S:0}
 A.mp.prototype={
-ar(){var s="rock_01.jpg"
-return new A.KX(A.a([new A.aL("Smells Like Teen Spirit","Nirvana",s,"https://youtu.be/hTWKbfoikeg"),new A.aL("Paradise City","Guns N' Roses","rock_02.jpg","https://youtu.be/Rbm6GXllBiw"),new A.aL("Another One Bites The Dust - Remastered 2011","Queen","rock_03.jpg","https://youtu.be/1tLYYSofs3U"),new A.aL("Highway to Hell","AC/DC","Rock_04.jpg","https://youtu.be/l482T0yNkeo"),new A.aL("Should I Stay or Should I Go - Remastered","The Clash","rock_05.jpg","https://youtu.be/BN1WwnEDWAM"),new A.aL("I Love Rock 'N Roll","Joan Jett & The Blackhearts","rock_06.jpg","https://youtu.be/wMsazR6Tnf8"),new A.aL("Whole Lotta Love - 1990 Remaster","Led Zeppelin","rock_07.jpg","https://youtu.be/PKXN88tjeMY"),new A.aL("Creep","Rediohead","rock_08.jpg","https://youtu.be/XFkzRNyygfk"),new A.aL("Something In The Way","Nirvana",s,"https://youtu.be/4VxdufqB9zg"),new A.aL("Dream On","Aerosmith","rock_10.jpg","https://youtu.be/89dGC8de0CA")],t.bb),B.m)}}
+ar(){var s="Rock_01.jpg"
+return new A.KX(A.a([new A.aL("Smells Like Teen Spirit","Nirvana",s,"https://youtu.be/hTWKbfoikeg"),new A.aL("Paradise City","Guns N' Roses","Rock_02.jpg","https://youtu.be/Rbm6GXllBiw"),new A.aL("Another One Bites The Dust - Remastered 2011","Queen","Rock_03.jpg","https://youtu.be/1tLYYSofs3U"),new A.aL("Highway to Hell","AC/DC","Rock_04.jpg","https://youtu.be/l482T0yNkeo"),new A.aL("Should I Stay or Should I Go - Remastered","The Clash","Rock_05.jpg","https://youtu.be/BN1WwnEDWAM"),new A.aL("I Love Rock 'N Roll","Joan Jett & The Blackhearts","Rock_06.jpg","https://youtu.be/wMsazR6Tnf8"),new A.aL("Whole Lotta Love - 1990 Remaster","Led Zeppelin","Rock_07.jpg","https://youtu.be/PKXN88tjeMY"),new A.aL("Creep","Rediohead","Rock_08.jpg","https://youtu.be/XFkzRNyygfk"),new A.aL("Something In The Way","Nirvana",s,"https://youtu.be/4VxdufqB9zg"),new A.aL("Dream On","Aerosmith","Rock_10.jpg","https://youtu.be/89dGC8de0CA")],t.bb),B.m)}}
 A.KX.prototype={
 M(a,b){var s,r=null,q=A.j7(A.bV("Rock",r,r,r),r,r)
 q=A.yo(B.l,A.ne(r,B.cO,r,new A.a2G(b),r),q)
