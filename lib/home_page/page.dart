@@ -217,7 +217,7 @@ class _homePageState extends State<homePage> {
                                 decoration: BoxDecoration(
                                   image: DecorationImage(
                                     image:
-                                        AssetImage('assets/images/rock_00.jpg'),
+                                        AssetImage('assets/images/Rock_00.jpg'),
                                     fit: BoxFit.cover,
                                   ),
                                 ),
